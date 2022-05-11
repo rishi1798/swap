@@ -8,4 +8,7 @@ b = c
 print(a,b)
 d = 5
 print(d)
+e = 6
+print(e)
+
 

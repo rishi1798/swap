@@ -6,5 +6,6 @@ a = b
 b = c
 
 print(a,b)
-c = 5
-print(c)
+d = 5
+print(d)
+
